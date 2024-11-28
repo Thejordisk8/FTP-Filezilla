@@ -1,6 +1,6 @@
 Instalación y configuración de un servidor FTP con FileZilla
 
-# Paso 1: Descargar FileZilla Server
+ Paso 1: Descargar FileZilla Server
 1. Ve a la página oficial de **FileZilla**: [https://filezilla-project.org/download.php?type=server](https://filezilla-project.org/download.php?type=server).
 2. Descarga la ultima versión de FileZilla Server.
 
